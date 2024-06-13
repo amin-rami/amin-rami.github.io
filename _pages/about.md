@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "Mohammadamin Rami"
 author_profile: true
 redirect_from: 
   - /about/
