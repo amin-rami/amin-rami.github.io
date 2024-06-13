@@ -20,19 +20,26 @@ repository               : "amin-rami/amin-rami.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
+
+  # core
   avatar           : "profile.png"
   name             : "Mohammadamin Rami"
-  pronouns         : # example: "she/her"  
   bio              : "Will do later!"
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : "https://amin-rami.github.io"
   email            : "mrami@usc.edu" 
-
-  # Academic websites
-  arxiv            : "https://amin-rami.github.io"
+  uri              : "https://amin-rami.github.io"
   googlescholar    : "https://amin-rami.github.io"
+  github           : "amin-rami" 
+  linkedin         : "what"
+  goodreads        : "username"
+
+
+  # personal
+  pronouns         : # example: "she/her" 
+
+  # academic
+  arxiv            : # URL
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
@@ -43,7 +50,6 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "amin-rami"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -52,12 +58,10 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : "username"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "what"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
