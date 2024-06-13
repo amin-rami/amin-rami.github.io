@@ -7,15 +7,15 @@ redirect_from:
 ---
 
 
-# About Me
+## About Me
 Here I will add stuff about myself.
 
-# News
+## News
 
 * (June 2024) I will share interesting news here in this section
 
-# Publications
+## Publications
 Click [here](/publications/) to view my publications.
 
-# Experience 
+## Experience 
 * I will share my experiences here
