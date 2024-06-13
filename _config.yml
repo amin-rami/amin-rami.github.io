@@ -26,7 +26,7 @@ author:
   name             : "Mohammadamin Rami"
   bio              : "Will do later!"
   location         : "Earth"
-  
+  employer         : "Red Brick University"
   email            : "mrami@usc.edu" 
   googlescholar    : "https://amin-rami.github.io"
   github           : "amin-rami" 
@@ -37,7 +37,6 @@ author:
   # personal
   pronouns         : # example: "she/her" 
   uri              : # example: https://amin-rami.github.io
-  employer         : 
 
   # academic
   arxiv            : # URL
