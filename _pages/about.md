@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 ## About Me
 Here I will add stuff about myself.
 
