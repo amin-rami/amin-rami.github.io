@@ -20,5 +20,5 @@ announcements:
 ---
 
 Hello! I am Mohammadamin “Amin” Rami, an incoming scientific research intern at [ISTA](https://ista.ac.at/en/home/), where I will work in the [Data Science, Machine Learning, and Information Theory](https://ist.ac.at/en/research/mondelli-group/) group under the supervision of [Prof. Marco Mondelli](http://marcomondelli.com/). My research focuses broadly on the mathematical foundations of AI, with interests at the intersection of machine learning, high-dimensional statistics, and information theory.
-saclay@allsuites-study.com
+
 I received my Master’s degree from [Institut Polytechnique de Paris](https://www.ip-paris.fr/), where I was fortunate to be advised by [Prof. Aslan Tchamkerten](https://www.tchamkerten.org/). Prior to that, I earned my Bachelor’s degree in Electrical Engineering from [Sharif University of Technology](https://en.sharif.ir/).
