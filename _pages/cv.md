@@ -1,12 +1,16 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/CV.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+description: Download my CV.
 ---
+
+<meta http-equiv="refresh" content="0; url={{ '/assets/pdf/CV.pdf' | relative_url }}" />
+
+<p>Redirecting to the CV PDF…</p>
+
+<script>
+  window.location.href = "{{ '/assets/pdf/CV.pdf' | relative_url }}";
+</script>
